@@ -1,0 +1,116 @@
+{
+  "stats": {
+    "suites": 5,
+    "tests": 7,
+    "passes": 7,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-03-08T19:58:17.239Z",
+    "end": "2023-03-08T19:58:17.312Z",
+    "duration": 73
+  },
+  "tests": [
+    {
+      "title": "receives one argument and returns it in all caps",
+      "fullTitle": "shout(string) receives one argument and returns it in all caps",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "receives one argument and returns it in all lowercase",
+      "fullTitle": "whisper(string) receives one argument and returns it in all lowercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes a string argument and logs it in all caps using console.log()",
+      "fullTitle": "logShout(string) takes a string argument and logs it in all caps using console.log()",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes a string argument and logs it in all lowercase using console.log()",
+      "fullTitle": "logWhisper(string) takes a string argument and logs it in all lowercase using console.log()",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"I can't hear you!\" if `string` is lowercase",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"I can't hear you!\" if `string` is lowercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"YES INDEED!\" if `string` is uppercase",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"YES INDEED!\" if `string` is uppercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"I would love to!\" if `string` is \"Let's have dinner together!\"`",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"I would love to!\" if `string` is \"Let's have dinner together!\"`",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "receives one argument and returns it in all caps",
+      "fullTitle": "shout(string) receives one argument and returns it in all caps",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "receives one argument and returns it in all lowercase",
+      "fullTitle": "whisper(string) receives one argument and returns it in all lowercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes a string argument and logs it in all caps using console.log()",
+      "fullTitle": "logShout(string) takes a string argument and logs it in all caps using console.log()",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "takes a string argument and logs it in all lowercase using console.log()",
+      "fullTitle": "logWhisper(string) takes a string argument and logs it in all lowercase using console.log()",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"I can't hear you!\" if `string` is lowercase",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"I can't hear you!\" if `string` is lowercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"YES INDEED!\" if `string` is uppercase",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"YES INDEED!\" if `string` is uppercase",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns \"I would love to!\" if `string` is \"Let's have dinner together!\"`",
+      "fullTitle": "sayHiToHeadphonedRoommate(string) returns \"I would love to!\" if `string` is \"Let's have dinner together!\"`",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
